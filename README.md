@@ -76,7 +76,7 @@ number_lab
 | No | テーマ | サンプルコードと資料 |
 |----|------|----------------|
 | #1 | なぜプログラマーは2進数を学ぶの？ | [01_binary](01_binary/) |
-| #2 | 10進数・2進数・8進数・16進数とは？ | Coming Soon |
+| #2 | 10進数・2進数・8進数・16進数とは？ | [02_number_system](02_number_system/) |
 | #3 | 16進数はなぜ使うの？ | Coming Soon |
 | #4 | ビットとは？8ビットで何が表せる？ | Coming Soon |
 | #5 | ビット演算（AND・OR・XOR・NOT） | Coming Soon |
