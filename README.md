@@ -66,6 +66,7 @@ number_lab
 ├── 01_binary
 ├── 02_number_system
 ├── 03_hexadecimal
+├── 04_byte
 ├── ...
 ```
 
@@ -78,7 +79,7 @@ number_lab
 | #1 | なぜプログラマーは2進数を学ぶの？ | [01_binary](01_binary/) |
 | #2 | 10進数・2進数・8進数・16進数とは？ | [02_number_system](02_number_system/) |
 | #3 | なぜ16進数なの？ | [03_hexadecimal](03_hexadecimal/) |
-| #4 | ビットとは？8ビットで何が表せる？ | Coming Soon |
+| #4 | 1バイトはなぜ256通り？ | [04_byte](04_byte/) |
 | #5 | ビット演算（AND・OR・XOR・NOT） | Coming Soon |
 | #6 | シフト演算とは？ | Coming Soon |
 | #7 | 二の補数とは？ | Coming Soon |
