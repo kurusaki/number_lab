@@ -67,6 +67,7 @@ number_lab
 ├── 02_number_system
 ├── 03_hexadecimal
 ├── 04_byte
+├── 05_bitwise
 ├── ...
 ```
 
@@ -80,7 +81,7 @@ number_lab
 | #2 | 10進数・2進数・8進数・16進数とは？ | [02_number_system](02_number_system/) |
 | #3 | なぜ16進数なの？ | [03_hexadecimal](03_hexadecimal/) |
 | #4 | 1バイトはなぜ256通り？ | [04_byte](04_byte/) |
-| #5 | ビット演算（AND・OR・XOR・NOT） | Coming Soon |
+| #5 | ビット演算とは？AND・OR・XOR・NOTを0と1から理解しよう！ | [05_bitwise](05_bitwise/) |
 | #6 | シフト演算とは？ | Coming Soon |
 | #7 | 二の補数とは？ | Coming Soon |
 | #8 | 浮動小数点数と計算誤差 | Coming Soon |
