@@ -68,6 +68,7 @@ number_lab
 ├── 03_hexadecimal
 ├── 04_byte
 ├── 05_bitwise
+├── 06_bitwise_use
 ├── ...
 ```
 
@@ -82,10 +83,11 @@ number_lab
 | #3 | なぜ16進数なの？ | [03_hexadecimal](03_hexadecimal/) |
 | #4 | 1バイトはなぜ256通り？ | [04_byte](04_byte/) |
 | #5 | ビット演算とは？AND・OR・XOR・NOTを0と1から理解しよう！ | [05_bitwise](05_bitwise/) |
-| #6 | シフト演算とは？ | Coming Soon |
-| #7 | 二の補数とは？ | Coming Soon |
-| #8 | 浮動小数点数と計算誤差 | Coming Soon |
-| #9 | ASCII文字コード | Coming Soon |
-| #10 | Unicodeとは？ | Coming Soon |
+| #6 | ビット演算は何に使う？ | [06_bitwise_use](06_bitwise_use/) |
+| #7 | ビットシフトとは？ | Coming Soon |
+| #8 | 二の補数とは？ | Coming Soon |
+| #9 | 浮動小数点数と計算誤差 | Coming Soon |
+| #10 | ASCII文字コード | Coming Soon |
+| #11 | Unicodeとは？ | Coming Soon |
 
 ---
