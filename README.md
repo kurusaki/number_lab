@@ -69,6 +69,7 @@ number_lab
 ├── 04_byte
 ├── 05_bitwise
 ├── 06_bitwise_use
+├── 07_shift
 ├── ...
 ```
 
@@ -84,7 +85,7 @@ number_lab
 | #4 | 1バイトはなぜ256通り？ | [04_byte](04_byte/) |
 | #5 | ビット演算とは？AND・OR・XOR・NOTを0と1から理解しよう！ | [05_bitwise](05_bitwise/) |
 | #6 | ビット演算は何に使う？ | [06_bitwise_use](06_bitwise_use/) |
-| #7 | ビットシフトとは？ | Coming Soon |
+| #7 | シフト演算とは？左シフト・右シフトで2倍・半分になる仕組み | [07_shift](07_shift/) |
 | #8 | 二の補数とは？ | Coming Soon |
 | #9 | 浮動小数点数と計算誤差 | Coming Soon |
 | #10 | ASCII文字コード | Coming Soon |
